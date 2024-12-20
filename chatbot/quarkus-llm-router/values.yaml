@@ -7,7 +7,7 @@ labels:
 
 name: quarkus-llm-router
 
-image: quay.io/balki404/quarkus-llm-router:1.9
+image: quay.io/balki404/quarkus-llm-router:1.10
 imagePullPolicy: Always
 
 serviceMesh:
